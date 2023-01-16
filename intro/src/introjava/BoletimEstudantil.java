@@ -1,4 +1,4 @@
-package edu.mia.introjava;
+package introjava;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 7;

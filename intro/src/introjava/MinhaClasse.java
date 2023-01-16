@@ -1,4 +1,4 @@
-package edu.mia.introjava;
+package introjava;
 public class MinhaClasse {
     public static void main(String[] args) {
 
