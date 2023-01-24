@@ -20,6 +20,8 @@ public class TiposVariaveis {
 
         String meuNome = "Mia Ferrari";
 
+        char sexo = 'F'; // tipo char só permite 1 caractere e precisa ter aspas simples. 
+
         //Constantes
         final double VALOR_DE_PI = 3.14; // final transforma uma variável em constante e o nome da constante precisa estar em caixa alta
         // VALOR_DE_PI = 10.17;
